@@ -36,7 +36,7 @@ function nextsequence() {
 
     setTimeout(() => {
         showpattern(gamepattern);
-    }, 1000); 
+    }, 100); 
 }
 
 function playsound(name) {
